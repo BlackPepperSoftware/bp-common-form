@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<taglib version="2.1"
+	xmlns="http://java.sun.com/xml/ns/javaee"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-jsptaglibrary_2_1.xsd"
+>
+	<description>Black Pepper Common Form Spring Taglib</description>
+
+	<tlib-version>1.0</tlib-version>
+	<short-name>bp-form</short-name>
+	<uri>http://www.blackpepper.co.uk/common/form</uri>
+	
+	<tag-file>
+		<description>
+			An element reporting all the validation errors for a form.
+		</description>
+		<name>errors</name>
+		<path>/META-INF/tags/errors.tagx</path>
+	</tag-file>
+	
+	<tag-file>
+		<description>
+			An element rendering labels, required indicator and help text around a control.
+		</description>
+		<name>field</name>
+		<path>/META-INF/tags/field.tagx</path>
+	</tag-file>
+
+</taglib>
