@@ -12,6 +12,7 @@
 	<artifactId>bp-common-form-spring-taglib</artifactId>
 
 	<name>Black Pepper Common Form Spring Taglib</name>
+	<description>Spring taglib for basic forms.</description>
 	
 	<dependencies>
 

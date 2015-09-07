@@ -12,6 +12,7 @@
 	<artifactId>bp-common-form-driver</artifactId>
 
 	<name>Black Pepper Common Form Driver</name>
+	<description>Drivers for basic forms.</description>
 	
 	<dependencies>
 
