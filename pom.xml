@@ -17,10 +17,10 @@
 	<name>Black Pepper Common Form Parent</name>
 	
 	<scm>
-		<connection>scm:git:git@codebasehq.com:blackpepper/black-pepper-common/bp-common-form.git</connection>
-		<developerConnection>scm:git:git@codebasehq.com:blackpepper/black-pepper-common/bp-common-form.git</developerConnection>
+		<connection>scm:git:git@github.com:BlackPepperSoftware/bp-common-form.git</connection>
+		<developerConnection>scm:git:git@github.com:BlackPepperSoftware/bp-common-form.git</developerConnection>
 		<tag>HEAD</tag>
-		<url>https://blackpepper.codebasehq.com/projects/black-pepper-common/repositories/bp-common-form</url>
+		<url>https://github.com/BlackPepperSoftware/bp-common-form</url>
 	</scm>
 	
 	<dependencyManagement>
