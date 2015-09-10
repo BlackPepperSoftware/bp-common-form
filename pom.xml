@@ -27,7 +27,7 @@
 	<groupId>uk.co.blackpepper.common</groupId>
 	<artifactId>bp-common-form-parent</artifactId>
 	<packaging>pom</packaging>
-	<version>1.1.0</version>
+	<version>1.1.1-SNAPSHOT</version>
 
 	<name>Black Pepper Common Form Parent</name>
 	<description>Library for building basic forms.</description>
@@ -57,7 +57,7 @@
 	<scm>
 		<connection>scm:git:git@github.com:BlackPepperSoftware/bp-common-form.git</connection>
 		<developerConnection>scm:git:git@github.com:BlackPepperSoftware/bp-common-form.git</developerConnection>
-		<tag>1.1.0</tag>
+		<tag>HEAD</tag>
 		<url>https://github.com/BlackPepperSoftware/bp-common-form</url>
 	</scm>
 	
